@@ -12,7 +12,7 @@ title                    : "Padmaja's Home Page"
 title_separator          : "-"
 name                     : &name "Padmaja Bodavula"
 description              : &description ""
-url                      : https://padmaja562.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://padmaja562.github.io/padmaja.blogs.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://padmaja562.github.io/padmaja.blogs.github.io/"
 
